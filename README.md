@@ -2,7 +2,7 @@
 - 👀 I’m very interested in making a positive impact through tech
 - 🌱 I’m currently learning about the JS ecosystem & software engineering
 - 💞️ I’m looking to collaborate on interesting JS projects
-- 📫 How to reach me: hello@rossen.xyz
+- 📫 How to reach me: rossen@rossen.xyz
 
 <!---
 rossenp/rossenp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
